@@ -1,0 +1,30 @@
+#brick-canvas
+{
+    background-color: #31f0f0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+    
+}
+
+.can
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 30px;
+    margin-bottom: auto;
+}
+body{
+    
+}
+.centering
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+h1{
+    margin-bottom: 0;
+}
